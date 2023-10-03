@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuntalModal7823
 - 👀 I’m interested in AIML & Coding
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Coding & AIML
 - 📫 How to reach me , just mail me
 
 <!---
